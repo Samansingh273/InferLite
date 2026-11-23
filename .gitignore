@@ -1,0 +1,13 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Large model files (regenerate with export_model.py / build_engine.ps1)
+*.onnx
+*.onnx.data
+*.plan
+
+# Logs and run output
+*.log
+output.txt

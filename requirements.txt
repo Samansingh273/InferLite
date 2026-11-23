@@ -1,0 +1,7 @@
+torch
+torchvision
+onnx
+tritonclient[all]
+numpy
+Pillow
+streamlit
